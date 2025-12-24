@@ -102,6 +102,7 @@ Navigasi ini digunakan untuk berpindah antar halaman data.
 - Navigasi pagination berfungsi dengan baik
 
 **Hasil Output:**
+
 halaman 1
 
 ![gambar](Screenshot/halamam1.png)
@@ -187,6 +188,7 @@ Query ini akan menampilkan artikel berdasarkan judul atau isi yang sesuai dengan
 - Fitur pencarian berjalan dengan baik
 
 **Hasil Output:**
+
 mencari artikel denga keyword "belajar"
 
 ![gambar](Screenshot/search.png)
