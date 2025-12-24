@@ -1,4 +1,4 @@
-# Praktikum 13: PHP OOP – Pagination Data
+# Praktikum 13 & 14: PHP OOP – Pagination Data & Pencarian Data (Search)
 
 Nama: Sayyid Sulthan Abyan
 
@@ -8,6 +8,7 @@ Kelas: TI.24.A.5
 
 ---
 
+# Praktikum 13: PHP OOP – Pagination Data
 ## Tujuan Praktikum
 Praktikum 13 bertujuan untuk:
 1. Memahami konsep pagination (pembagian halaman data)
