@@ -106,11 +106,11 @@ Navigasi ini digunakan untuk berpindah antar halaman data.
 
 halaman 1
 
-![gambar](Screenshot/halamam1.png)
+![gambar](Screenshot/halaman1.png)
 
 halaman 2
 
-![gambar](Screenshot/halamam2.png)
+![gambar](Screenshot/halaman2.png)
 
 ---
 
